@@ -57,7 +57,7 @@ section {
   section img#santa {
     position: absolute;
     bottom: 50px;
-    left: -600;
+    left: -600px;
     z-index: 1;
     max-width: 600px;
     transform: scale(0.5); }
@@ -72,7 +72,7 @@ section {
     z-index: 10; }
   section #text {
     position: absolute;
-    bottom: -4000px;
+    bottom: -500px;
     left: 0;
     width: 100%;
     text-align: center;
