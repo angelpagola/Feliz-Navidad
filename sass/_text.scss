@@ -1,0 +1,11 @@
+#text {
+    position: absolute;
+    bottom: -500px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    color: $white;
+    font-size: 6em;
+    z-index: 9;
+    text-shadow: 5px 2px $danger-color-dark;
+}
